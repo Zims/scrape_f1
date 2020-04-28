@@ -5,10 +5,12 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+autopep8 = "*"
 
 [packages]
 pandas = "*"
 beautifulsoup4 = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
